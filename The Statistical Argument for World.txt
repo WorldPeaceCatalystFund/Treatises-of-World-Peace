@@ -1,0 +1,59 @@
+The Statistical Argument for World Peace
+The purpose of this article is to explain the statistical argument for world peace and show that world peace is guaranteed in an infinitely long time and to further show that mass use of the World Peace Catalyst’s Fund’s mobile application Icebreakers guarantees that world peace will come faster, possibly in the next 2-3 decades.
+The way the world works is very complex.  It is amazing what modern science tells us about the natural world. 
+The World Peace Catalyst Fund has devised a method and design to catalyze the process to world peace. Analogous to statistical mechanics, the World Peace Catalyst Fund has conjured an argument that yields that the world will move towards a state where all countries are in peace and harmony with each other. 
+ In statistical mechanics, the corollary is that a body may have a probability distribution to move in any of 4 directions (25% move up, 25% move down, 30% move left, 20% move right).  However, the direction that it actually moves in is the direction with the greatest probability (move left). Similarly, an argument based on statistics can be established such that the corollary is that the greatest probability lies with the world moving towards a peaceful state. The argument is as follows:
+Consider the states that a single country and a pair of countries could regard each other in their affairs.  These states would be peaceful, neutral or hostile.  Following a discrete mathematical analysis of all the possible 2 country combinations of the 196 countries in the world, there are 19,110 ways countries can be paired.  In each of those pairings, there are 9 ways the pair of countries can have their affairs (peaceful-peaceful, peaceful-neutral, peaceful-hostile, neutral-peaceful, neutral-neutral, neutral-hostile, hostile-peaceful, hostile-neutral, hostile-hostile).  Out of those 9 ways, 4 give way towards peace, 4 give way towards tense relations and 1 gives way towards full blown hostility.  The tense relations can be assumed to be peaceful and transitory but not ideal. This makes it 8/9 (89%) ways towards a peaceful relationship and 1/9 (11%)  way towards a warring relationship.  Extending this argument out towards all 19,110 country pairs, there are 919,110 ways that countries can be engaged with each other. This number is to large to calculate, however we know that 89% of these ways leads towards a peaceful relationship.  Just like statistical mechanics, we can say that the world is moving towards world peace because that has the greatest probability.  The question is not which way we are moving, it is when will we achieve world peace and how can we get there faster.  Ghost Writer Alpha is designed to catalyze this movement towards world peace.
+
+
+
+The world is more globalized than ever.  It has taken thousands of years to reach the point where multiple nationalities can sit in a room and engage in conversation.  To reach this point, humans needed to understand much about each other.  Politicians in particular needed to understand the lines of bonding which could be used to foster peaceful relations.  As interconnected as the world is, the majority of the world has yet to converse with each other.  The World Peace Catalyst Fund believes that if all the nationalities of the world were in conversation with each other, world peace would be easily obtained.
+Today, the world is globalized and interconnected.  We can travel to any country and speak with any citizen as we please.  However, there is still a barrier to connecting with citizens from a different culture.  Numerous problems arise when trying to get citizens to connect with someone from a different culture (language, cultural differences, hatred, anger, lack of things to talk about).  Unless a person has a direct business interest or a direct social interest, it is very unlikely that they will engage with someone from a different culture.  Globalizing the world was one of the first steps towards world peace.  Now that the world is globalized and interconnected, what is the next step?  The next step involves getting everyone to communicate and trade cultural values and ideas with each other.  
+There are 195 countries in the world.  When you perform a discrete combination without replacement analysis, there are 19,110 two country combinations.  Although we are globalized and many cities are very diverse and play host to people from different countries, how many of these 19,110 combinations have actually conversed with each other.  The number is low and the number of participants in active conversations is even lower.  America-Pakistan represents one of the 19,110 combinations.  The number of citizens communicating between America and Pakistan is low.  The World Peace Catalyst Fund hopes to catalyze world peace by using Ghost Writer Alpha to break down the communication barrier and help citizens create friends across cultures. 
+In statistical thermodynamics, the microstate with the most microstates corresponds to the state with the greatest entropy.  We know that all things tend to the state of greatest entropy.  Naturally, the result after infinite time is the state with the most microstates.  
+
+3 macro state – Peaceful, Hostile, Tense more simplified into 2 states, Peaceful, Hostile
+19,110 molecules/country pairs, each country pair can be in one of 9 states
+Or 2^19,110
+9^19110 = to big to calculate = number of configurations = total number of micro state
+Each microstate is 1 configuration of 19,110 country pairs (each country pair, assumes one of 9 microstates)
+How many macro states have at least one country warring.? Macro State 1
+How many macro states have no countries warring?   Macro State 2
+1 macro state is a configuration of 19,110 arranged in 9 energy states.
+Each macro state can be broken down into microstates because there are 19,110 distinguishable objects…. How many ways can the macro state be permuted
+How many Macro states… How many ways to arrange 19,110 objects into 9 energy states?
+19,110 macro states
+Peaceful = Heads
+Warring = Tails
+How many ways can 19,110 country pairs be arranged in the below 9 macro state specifications… 9 energy states.
+Can find total number of microstates with this equeation
+ 
+Peaceful Macro State
+	Peaceful-Peaceful
+	Peaceful-Neutral
+	Peaceful-Hostile
+	Neutral-Neutral
+	Neutral-Hostile
+	Neutral-Peaceful
+	Hostile-Neutral
+	Hostile-Peaceful
+Hostile Macro Sate
+	Hostile-Hostile
+
+
+
+
+
+a.	Generalized Problem:  
+The current problem is that there are mass groups of people on the earth that have never communicated with each other.  The Notice of Funding Opportunity (NOFO) lists ‘proposals for innovative ways to change social discourse and reduce acceptance of extremist narratives and ideology’ as a purpose which is directly what the problem statement addresses.
+
+b.	Specific Problem:  
+How do you get mass groups of citizens between America and Pakistan to communicate with each other in an effort to exchange culture, values and ideas peacefully and friendly?  What are the lines of bonding that politicians can use to foster peaceful relations between the citizens of America and Pakistan? How can alternate narratives extremism be created? 
+c.	Support of problem statement:  
+
+
+  
+
+Furthermore in regards to changing social discourse and reducing acceptance of extremist narratives and ideology, we know that the world will move towards World Peace and that the limiting factor is how much we converse with each other.  We can say that if we increased the number of conversations, over time the extremist narratives and ideology will eventually die out.  Naturally, it will take a long time for it to die out because the current disposition is towards extremist narratives and ideologies.  What is needed is a way to have mass groups of people converse with each other without allowing the extremist narrative and ideology to be fueled.  This is what Ghost Writer Alpha allows.  Conversations are held anonymously so the affect of any conversation is limited.  The analysis of submitted conversations allows any common themes to be expounded upon and new peaceful narratives derived.  The mobile device is thus an extraction device for the latent bonds of society.
+
+
